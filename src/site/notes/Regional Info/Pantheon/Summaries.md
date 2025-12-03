@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","updated":"2025-12-03T16:08:56.956+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","pinned":true,"updated":"2025-12-03T16:33:53.957+01:00"}
 ---
 
 # The Prime Deities
