@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/suvanna/","created":"2025-11-30T19:02:56.347+01:00","updated":"2025-12-03T16:01:16.951+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/suvanna/","updated":"2025-12-03T16:01:16.951+01:00"}
 ---
 
 ### **Goddess of Moon and Tides**

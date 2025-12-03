@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ramor/","created":"2025-11-30T18:34:33.529+01:00","updated":"2025-12-03T16:01:12.209+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ramor/","updated":"2025-12-03T16:01:12.209+01:00"}
 ---
 
 ### God of Life and the Sun
