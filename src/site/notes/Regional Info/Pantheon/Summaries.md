@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","tags":["gardenEntry"],"created":"2025-11-30T12:10:02.862+01:00","updated":"2025-12-03T15:48:35.090+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","tags":["gardenEntry"],"created":"2025-11-30T12:10:02.862+01:00","updated":"2025-12-03T16:00:04.240+01:00"}
 ---
 
 # The Prime Deities
@@ -32,3 +32,5 @@
 2. [[Regional Info/Pantheon/Racial Patrons/Kordon\|Kordon]], The Siege Lord: [[Regional Info/Pantheon/Racial Patrons/Kordon\|Kordon]] is the god of the resilient and formidable Humans, known for their ingenuity and fortifications. He is a guardian deity of strongholds and a symbol of mortal tenacity in the face of adversity.
 3. [[Regional Info/Pantheon/Racial Patrons/Corellon\|Corellon]], The Lord Protector: [[Regional Info/Pantheon/Racial Patrons/Corellon\|Corellon]] is the divine protector of the elves, embodying grace, beauty, and artistry. He watches over elven kind and their natural habitats, inspiring them to preserve the beauty and magic of their forests.
 4. [[Regional Info/Pantheon/Racial Patrons/Lolth\|Lolth]], The Spider Queen: [[Regional Info/Pantheon/Racial Patrons/Lolth\|Lolth]] is the complex and enigmatic goddess of the drow, a subterranean race of dark elves. She weaves a web of power and deceit, and her followers often engage in political intrigue and dark rituals to gain her favour.
+
+[[Regional Info/Pantheon/God Rumors\|God Rumors]]
