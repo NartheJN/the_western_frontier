@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","pinned":true,"updated":"2025-12-03T16:33:53.957+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","pinned":true,"updated":"2025-12-03T17:06:36.799+01:00"}
 ---
 
 # The Prime Deities
@@ -34,3 +34,4 @@
 4. [[Regional Info/Pantheon/Racial Patrons/Lolth\|Lolth]], The Spider Queen: [[Regional Info/Pantheon/Racial Patrons/Lolth\|Lolth]] is the complex and enigmatic goddess of the drow, a subterranean race of dark elves. She weaves a web of power and deceit, and her followers often engage in political intrigue and dark rituals to gain her favour.
 
 [[Regional Info/Pantheon/God Rumors\|God Rumors]]
+yay
