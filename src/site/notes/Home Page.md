@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","pinned":true,"tags":["gardenEntry"],"updated":"2025-12-03T16:05:51.836+01:00"}
+{"dg-publish":true,"permalink":"/home-page/","pinned":true,"tags":["gardenEntry"],"updated":"2025-12-03T16:08:12.029+01:00"}
 ---
 
 Party:

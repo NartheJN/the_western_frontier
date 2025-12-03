@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/the-prime-deities/","updated":"2025-12-03T16:01:09.960+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/the-prime-deities/","pinned":true,"updated":"2025-12-03T16:08:49.936+01:00"}
 ---
 
 ### The Prime Deities
@@ -12,6 +12,7 @@
 | [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]], Goddess of Knowledge and Secrets |     N     | Knowledge, Trickery           | A book with an eye on each cover.                                  |
 | [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], God of Music and Artisanry          |    CN     | Forge, Order, Twilight        | A golden lyre                                                      |
 | [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], Goddess of Fate and Death        |    LN     | Death, Life, Grave, Twilight  | A skull, half of which is made of line mesh                        |
+
 Prime deities are considered the original architects of cosmic order, the first beings whose influence shaped existence itself. Mortals rarely claim direct encounters, and most understanding comes from scripture, visions, or the subtle effects attributed to them in the world. Each Prime embodies fundamental forces or aspects of reality—life, death, knowledge, war, or creation—serving as both guardians and arbiters of their respective domains.
 
 Mortal traditions describe them as figures of immense power and abstraction, often represented in paintings, songs, and poems rather than physical likenesses. Their influence is felt in patterns, cycles, and phenomena: the turning of day and night, the growth of crops, the surge of storms, or the passage of souls. Each deity also manifests through echoes, rare and fleeting images of their presence in the world, and, more rarely, through miracles that leave observers awed but uncertain.
