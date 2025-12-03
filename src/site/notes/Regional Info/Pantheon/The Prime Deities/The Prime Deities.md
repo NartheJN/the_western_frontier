@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/the-prime-deities/","tags":["gardenEntry"],"created":"2025-11-30T19:36:26.156+01:00","updated":"2025-12-03T15:48:38.529+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/the-prime-deities/","created":"2025-11-30T19:36:26.156+01:00","updated":"2025-12-03T16:01:09.960+01:00"}
 ---
 
 ### The Prime Deities

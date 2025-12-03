@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/gadeon/","tags":["gardenEntry"],"created":"2025-11-30T19:03:33.233+01:00","updated":"2025-12-03T15:48:46.782+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/gadeon/","created":"2025-11-30T19:03:33.233+01:00","updated":"2025-12-03T16:01:19.412+01:00"}
 ---
 
 ### **God of Storms and War**

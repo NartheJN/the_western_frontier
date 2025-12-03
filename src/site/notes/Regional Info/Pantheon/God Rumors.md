@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/god-rumors/","hide":"true","tags":["gardenEntry"],"created":"2025-11-30T12:10:02.862+01:00","updated":"2025-12-03T15:59:51.527+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/god-rumors/","hide":true,"created":"2025-11-30T12:10:02.862+01:00","updated":"2025-12-03T16:01:06.999+01:00"}
 ---
 
 # Some known Relationships of the Gods:
