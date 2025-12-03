@@ -1,24 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/haz-ka/","updated":"2025-12-03T17:02:36.897+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/haz-ka/","updated":"2025-12-03T21:45:07.093+01:00"}
 ---
 
-### **God of 
+### **Goddess of Chaos and Destruction 
 
 ---
 #### **Description**
+Haz’ka’s depictions come from scorched murals, frenzied carvings, or fraying tapestries, giving her form a jagged intensity. She is rendered as a towering figure with a muscular frame, limbs twisted at slight but unsettling angles, and multiple sets of sharp, uneven markings across the body that artists describe as “fracture lines.” The face is usually masked or broken into mirrored segments, creating the impression of a visage that cannot settle into one shape. Her hair is drawn like drifting strands of fire or torn cloth, often spreading outward as though caught in a violent wind. Clothing is rare in her imagery; when present, it appears as tattered bands or shards of armor fused into the flesh. Her stance leans forward with aggressive momentum, as if caught in the first instant of motion.
 
+Cult robes depict a many-legged beast trailing embers wherever it moves, representing Haz’ka’s destructive wake. Its limbs end in spines or claws, and its crooked movements are said to scrape symbols of unrest into the dirt.
 
 ---
 #### **Personality**
+Fragmentary doctrine portrays Haz’ka as an inevitable, impartial force—less a raging destroyer and more the necessary unmaking that clears the way for what follows. Writings preserved by forbidden circles insist she acts with the inevitability of a storm, acknowledging no malice or mercy, only the purpose of erasing what resists change. Adherents describe her as direct, unbound, and uninterested in justification.
 
+Visions attributed to her presence present conflicting impressions. Some describe an overwhelming pressure, as if the world were holding its breath before collapse. Others report a sensation of disjointed motion surrounding them, the environment tilting or shifting without visible cause. A handful recount glimpses of something vast and fractured observing them with detached curiosity. None of these testimonies agree on intent, only that her attention coincides with moments when structures—physical or otherwise—begin to falter.
 
 ---
 #### **Domain**
+Haz’ka’s influence governs destructive change, upheaval, and the chaotic collapse that precedes transformation. Those who follow her call upon her power when structures—physical or ideological—must break to allow something new to form. Her touch is credited when longstanding systems fracture, barriers give way, or tightly controlled situations unravel without clear cause.
 
+Miracles aligned with Haz’ka appear less as direct assaults and more as unavoidable disruptions. One story tells of a fortified wall that crumbled at its most stable point, allowing trapped townsfolk to escape moments before disaster overtook them. Another describes a dispute that ended abruptly when the hall’s support beam split cleanly, sending both sides scattering before violence erupted. These incidents are interpreted as the world yielding under pressure at precisely the moment destruction becomes release.
 
 ---
 #### **Relationships**
-
+- Contrasts sharply with [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] and [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], as her followers dismantle growth and life.
+- Respected or manipulated by [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]], who thrives on disorder.
+- Her influence can coincide with [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]], as war magnifies destruction.
+- Occasionally counters [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], destroying creations or causing artistic ruin.
+- Opposes [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], interfering with the orderly passage of endings.
+- Sometimes works in tandem with [[Regional Info/Pantheon/The Unspoken Gods/Vorshka\|Vorshka]] and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], amplifying decay and void through violent means.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**
