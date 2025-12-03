@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vorshka/","updated":"2025-12-03T21:46:02.499+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vorshka/","updated":"2025-12-03T23:23:23.919+01:00"}
 ---
 
 ### **Goddess of Disease and Rot 
@@ -23,13 +23,13 @@ Vorshka’s influence governs decay, sickness, and the quiet processes that brea
 Miracles attributed to Vorshka tend to unfold slowly. One tale describes a tyrant’s sealed grain stores spoiling overnight, the rot spreading in precise patterns as though guided by invisible lines. Another recounts a healer who watched an incurable infection recede from a patient it had clung to for years, not as restoration but as an abrupt cessation of its progress. Such events suggest her influence moves along the fine boundary between dissolution and release.
 
 ---
-#### **Relationships**
-- Opposed to [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]], whose vitality she corrodes.
-- Neutral or indirect conflict with [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], as natural cycles can resist decay.
-- Sometimes aligned with [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] and [[Regional Info/Pantheon/The Unspoken Gods/Haz'ka\|Haz'ka]], using stealth and destruction to spread sickness.
-- Intersects with [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]] during wars or sieges, exploiting vulnerability.
-- Conflicts with [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], accelerating death without regard for natural transition.
-- Avoids [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]]; artistry rarely intersects with disease except when corrupted.
+#### **Commandments**
+> [!hint] Mistress of Decay
+> Spread decay and weakness where it may teach or punish.
+>     
+> Corrupt what is rigid, revealing the hidden fragility of life.
+>     
+> Use knowledge of the living to manipulate, weaken, or consume.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

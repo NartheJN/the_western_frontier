@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sirta/","updated":"2025-12-03T16:09:24.736+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sirta/","updated":"2025-12-03T23:21:21.589+01:00"}
 ---
 
 ### **Goddess of Knowledge and Secrets**
@@ -23,14 +23,13 @@ Sirta’s domain encompasses the gathering, preservation, and concealment of kno
 Miraculous accounts often describe subtle, temporary phenomena. One story tells of a scholar who awoke to find previously illegible text perfectly clear, the transformation lasting only long enough to transcribe it. Another recalls maps that rearranged themselves to reveal hidden paths, or ancient locks that yielded only to those who correctly discerned the pattern within. Such events highlight her connection to discovery and understanding without imposing forceful intervention.
 
 ---
-#### **Relationships**
-- Maintains respectful ties with [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] and [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], preserving knowledge of life and cycles.
-- Aligns with [[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]] in guarding mystical lore.
-- Conflicts with [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], who threaten secrets and preservation.
-- Observes [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]] and [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]] neutrally, intervening only when knowledge or secrets are at stake.
-- Cooperates with [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]] in guiding transitions and recording fates.
-
-Views mortals as keepers of stories, laws, and discoveries. She rewards those who preserve, interpret, or share knowledge wisely, while punishing those who abuse secrets. Mortals are judged by their diligence and discretion rather than morality.
+#### **Commandments**
+> [!hint] The Silent Scribe
+> Preserve truth and hidden wisdom, sharing only with those prepared.
+>     
+> Question carefully, listen intently, and record diligently.
+>     
+> Honor the weight of secrets; misuse brings ruin.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

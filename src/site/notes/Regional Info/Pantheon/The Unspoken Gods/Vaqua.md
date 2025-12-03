@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vaqua/","updated":"2025-12-03T21:45:53.181+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vaqua/","updated":"2025-12-03T23:22:05.616+01:00"}
 ---
 
 ### **God of Shadows and Trickery 
@@ -23,13 +23,13 @@ Vaqua’s influence governs shadows, misdirection, and the fluid boundary betwee
 Miracles attributed to Vaqua rarely present themselves directly. One tale speaks of a fugitive who found pursuers consistently choosing the wrong road, as if the shadows at each crossroads nudged their decisions astray. Another recounts a thief whose footsteps left no trace during a narrow escape, despite the ground’s softness. Such events are interpreted as the gentle shifting of perspective or circumstance, subtle adjustments that favor evasion, ambiguity, or concealed truth.
 
 ---
-#### **Relationships**
-- Opposes [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] and [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], whose light and life counteract shadow and concealment.
-- Occasionally allies with [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]], using chaos in battle to further his aims.
-- Conflicts with [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], as shadows obscure inspiration and artistry.
-- Intersects with [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] only through subversion, seeking to hide or twist knowledge.
-- Opposes [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], disrupting the natural passage of life and death.
-- Often collaborates with [[Regional Info/Pantheon/The Unspoken Gods/Haz'ka\|Haz'ka]], [[Regional Info/Pantheon/The Unspoken Gods/Vorshka\|Vorshka]], and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]] when deception serves destruction, disease, or void.
+#### **Commandments**
+> [!hint] The Whisper in Shadow
+> Conceal your plans and observe carefully before acting.
+>     
+> Exploit opportunity, misdirection, and cunning to achieve your aims.
+>     
+> Never trust appearances; all is subject to deception.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

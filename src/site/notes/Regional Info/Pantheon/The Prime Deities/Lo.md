@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/lo/","updated":"2025-12-03T16:09:28.266+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/lo/","updated":"2025-12-03T23:25:06.055+01:00"}
 ---
 
 ### **God of Music and Artisanry**
@@ -23,14 +23,13 @@ Lo’s influence governs music, craftsmanship, and innovation. Patrons invoke hi
 Miracles attributed to Lo tend to be small but profound. One account describes a sculptor who found that each strike of the chisel produced precisely the intended effect, though the tools themselves felt untouched. Another tells of a musician whose string snapped mid-performance, only for the melody to continue as if the air itself completed the notes. These occurrences are framed less as overt power and more as subtle guidance toward harmony.
 
 ---
-#### **Relationships**
-- Generally cooperative with most gods; complements [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] when vitality informs creation, or [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]] when natural flow inspires artistry.
-- Enhances [[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]]’s magical creations.
-- Neutral or cautious toward [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]], as conflict can inspire or destroy art.
-- Avoids direct confrontation with [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]].
-- Distantly connected to [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], as endings influence cycles of creation.
-
-Perceives mortals as instruments for creativity. Effort, patience, and skill are noted and subtly encouraged. Inspiration is given freely to those who pursue mastery or beauty, while negligence is met with silence rather than punishment.
+#### **Commandments**
+> [!hint] The Eternal Muse
+> Craft with care, dedication, and attention to form and function.
+>     
+> Let inspiration guide your hands, and patience temper your work.
+>     
+> Celebrate creativity in all its forms, but never force it.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

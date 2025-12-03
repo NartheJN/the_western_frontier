@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/haz-ka/","updated":"2025-12-03T21:45:07.093+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/haz-ka/","updated":"2025-12-03T23:22:52.701+01:00"}
 ---
 
 ### **Goddess of Chaos and Destruction 
@@ -23,13 +23,13 @@ Haz’ka’s influence governs destructive change, upheaval, and the chaotic col
 Miracles aligned with Haz’ka appear less as direct assaults and more as unavoidable disruptions. One story tells of a fortified wall that crumbled at its most stable point, allowing trapped townsfolk to escape moments before disaster overtook them. Another describes a dispute that ended abruptly when the hall’s support beam split cleanly, sending both sides scattering before violence erupted. These incidents are interpreted as the world yielding under pressure at precisely the moment destruction becomes release.
 
 ---
-#### **Relationships**
-- Contrasts sharply with [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] and [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], as her followers dismantle growth and life.
-- Respected or manipulated by [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]], who thrives on disorder.
-- Her influence can coincide with [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]], as war magnifies destruction.
-- Occasionally counters [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], destroying creations or causing artistic ruin.
-- Opposes [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], interfering with the orderly passage of endings.
-- Sometimes works in tandem with [[Regional Info/Pantheon/The Unspoken Gods/Vorshka\|Vorshka]] and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], amplifying decay and void through violent means.
+#### **Commandments**
+> [!hint] The Shattering Flame
+> Embrace upheaval and dismantle what stagnates or oppresses.
+>     
+> Seek freedom through entropy, challenging authority and order.
+>     
+> Revel in the power of change, letting destruction pave new paths.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

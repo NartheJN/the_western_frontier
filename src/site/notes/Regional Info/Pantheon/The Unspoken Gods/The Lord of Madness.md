@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-lord-of-madness/","updated":"2025-12-03T21:45:39.562+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-lord-of-madness/","updated":"2025-12-03T23:24:13.506+01:00"}
 ---
 
 ---
@@ -21,12 +21,13 @@ The Lord of Madness governs fractured insight, unraveling thought, and the space
 Miracles aligned with him seldom appear consistent. One story tells of a scribe who solved a centuries-old cipher after hearing a meaningless rhythm tapped by an unseen hand. Another speaks of a cultist trapped in a labyrinth who escaped only because the walls briefly aligned in ways that made no architectural sense. Such events are understood as distortions that grant fleeting clarity through disorder.
 
 ---
-#### **Relationships**
-- Motivations and alignments are largely incomprehensible.
-- Presence indirectly challenges all Spoken gods, introducing unpredictability into domains of life, nature, and order.
-- Occasionally intersects with [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]], [[a\|a]], or [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], though motives remain opaque.
-- Mortals report that encounters with him unsettle structures of reason, affecting the influence of all other gods in subtle ways.
-- Neutral or unknown toward [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]] and [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], though madness can warp artistry or perceptions of fate.
+#### **Commandments**
+> [!hint] The Herald of the Unseen
+> Break the boundaries of thought; let certainty dissolve.
+>     
+> Expose hidden fears and impulses, revealing the mind’s fragility.
+>     
+> Accept unpredictability as the only constant; question all reality.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

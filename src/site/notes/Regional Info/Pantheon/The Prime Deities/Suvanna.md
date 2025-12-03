@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/suvanna/","updated":"2025-12-03T16:09:13.689+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/suvanna/","updated":"2025-12-03T23:18:41.189+01:00"}
 ---
 
 ### **Goddess of Moon and Tides**
@@ -23,15 +23,14 @@ Suvanna’s influence is understood to govern tides, both physical and metaphori
 Tales of miracles attributed to her describe fleeting distortions in light and motion. One story recounts a shoreline where waves halted midsurge, the water forming smooth arcs as if caught between breaths. Another describes a sleeper whose shadow rippled gently despite the stillness of the room, followed by a sudden clarity of mind upon waking. Such accounts highlight brief moments where natural rhythms seem to pause or align, interpreted as signals of her attention rather than direct intervention.
 
 ---
-#### Relationships
-- Closely connected to [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]], as twin or partner in balance between day and night.
-- Harmonizes with [[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]], as magic and natural cycles intertwine.
-- Occasionally consults or aligns with [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]], particularly regarding cyclical knowledge.
-- Relationships with [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] are ambiguous; shadow mingles with moonlight without direct conflict.
-- Opposes [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]] when imbalance threatens natural order.
-- Neutral toward [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]] and [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], except when tides or growth intersect with war or artistry.   
+#### **Commandments**
+> [!hint] _The Moon Shepard's Grace_
+> Respect the cycles of nature, allowing growth and decay in balance.
+> 
+> Honor the night as you do the day; seek harmony in all rhythms.
+> 
+> Tend the earth and its creatures, leaving no place to waste.
 
-Perceives mortals as participants in the natural order. They are part of larger cycles of growth, decay, and renewal. She values harmony and attention to the rhythms of life, rewarding those who work in balance with the world and warning those who disrupt it.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

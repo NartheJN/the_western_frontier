@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ramor/","updated":"2025-12-03T21:46:41.817+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ramor/","updated":"2025-12-03T23:19:31.139+01:00"}
 ---
 
 ### God of Life and the Sun
@@ -23,15 +23,13 @@ Ramor’s influence governs life, vitality, and the steady cycle of daylight. Fo
 Miracles attributed to Ramor often appear as subtle shifts in the world rather than overt displays. One story tells of a traveler whose injuries faded as sunlight pooled unnaturally around them, the body returning to its previous state without direct intervention. Another recounts a village where creeping blight halted at the edge of a sunbeam, as though the light itself resisted corruption. These events are understood as guidance and protection, emphasizing renewal and the preservation of life rather than sheer force.
 
 ---
-#### Interrelations
-- Strongly linked to [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], described variously as sibling, lover, or cosmic counterpart.
-- Complementary to [[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]], whose magic amplifies or channels life energy.
-- Respects [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]], as knowledge preserves the cycles he nurtures.
-- Opposes [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] (shadows) and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]] (void/undeath).
-- Neutral toward [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]]; cooperation occurs when life and artistry intersect.
-- Harmonious with [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], as life naturally feeds into fate and death cycles.
-
-Sees mortals as children under his watch, fragile yet capable of growth. He offers guidance and protection, rarely intervening directly, preferring the cycles of life to unfold with subtle influence. Devotion is rewarded with signs of renewal or vitality, but judgment is implicit: life must be nurtured responsibly.
+#### **Commandments**
+> [!hint] _The Ever-Rising Sun_
+> Protect the living and preserve vitality in all forms.
+> 
+> Act with patience and nurture, even when faced with hardship.
+> 
+> Confront corruption and darkness where it threatens life.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

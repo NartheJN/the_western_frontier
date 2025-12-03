@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/god-rumors/","hide":true,"updated":"2025-12-03T16:08:53.200+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/god-rumors/","hide":true,"updated":"2025-12-03T22:30:34.467+01:00"}
 ---
 
 # Some known Relationships of the Gods:
@@ -9,13 +9,13 @@ Family Ties:
 	[[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]] (God of War and Storms) is a distant cousin of [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] and [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], with their shared bloodline connecting them to the elements and their influence on the world.
 
 Rivalry and Conflict:
-	[[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] (Goddess of Knowledge and Secrets) and [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] (God of Shadows and Trickery) have an ongoing feud. [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] seeks to uncover hidden truths, while [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] delights in obscuring them. Their constant struggle for knowledge and deception has shaped the world's history.
+	~~[[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] (Goddess of Knowledge and Secrets) and [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] (God of Shadows and Trickery) have an ongoing feud. [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] seeks to uncover hidden truths, while [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] delights in obscuring them. Their constant struggle for knowledge and deception has shaped the world's history.~~
 
 Collaboration and Balance:
 	[[Regional Info/Pantheon/The Dragonlords/Bahamut\|Bahamut]] (Lord of Justice and Nobility) and [[Regional Info/Pantheon/The Dragonlords/Nebnemenes\|Nebnemenes]] (Lord of Balance and Order) work together on occasion to maintain a sense of equilibrium in the world. [[Regional Info/Pantheon/The Dragonlords/Bahamut\|Bahamut]]'s sense of justice aligns with [[Regional Info/Pantheon/The Dragonlords/Nebnemenes\|Nebnemenes]]' desire for balance.
 
 Mysteries and Secrets:
-	[[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]] (God of Magic and Mysteries) and [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] (Goddess of Knowledge and Secrets) share a mutual fascination with hidden arcane knowledge. They exchange cryptic messages and collaborate on unraveling the deepest magical mysteries.
+	~~[[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]] (God of Magic and Mysteries) and [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] (Goddess of Knowledge and Secrets) share a mutual fascination with hidden arcane knowledge. They exchange cryptic messages and collaborate on unraveling the deepest magical mysteries.~~
 
 Influence on Mortals:
 	[[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]] (God of Music and Artisanry) and [[Regional Info/Pantheon/Racial Patrons/Corellon\|Corellon]] (The Lord Protector) inspires bards and artists in the mortal realm. Their creative energies intermingle, resulting in extraordinary works of art and music.

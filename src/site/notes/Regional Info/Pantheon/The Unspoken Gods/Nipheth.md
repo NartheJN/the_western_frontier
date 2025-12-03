@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/nipheth/","updated":"2025-12-03T21:46:07.776+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/nipheth/","updated":"2025-12-03T23:23:49.943+01:00"}
 ---
 
 ### **God of Undead and Void 
@@ -23,12 +23,13 @@ Nipheth’s influence governs undeath, stillness, and the quiet void that lies b
 Miracles attributed to Nipheth emerge without spectacle. One account tells of a fallen warrior whose body did not decay despite the march of seasons, lying as untouched as polished stone. Another describes a necromancer whose failing spell stabilized when a cold hush filled the room, allowing the ritual to proceed with impossible precision. These occurrences are read as the world pausing—in part or in whole—beneath his influence.
 
 ---
-#### **Relationships**
-- Antagonistic toward [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]], [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], and [[Regional Info/Pantheon/The Prime Deities/Sefra\|Sefra]], as void and undeath disrupt life and natural cycles.
-- Occasionally aided by [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]], whose tricks can open pathways for void incursions.
-- Opportunistically interacts with [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]], exploiting conflict to expand undead influence.
-- Opposes [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]] indirectly, consuming or nullifying creative work.
-- Sometimes collaborates with [[Regional Info/Pantheon/The Unspoken Gods/Haz'ka\|Haz'ka]] and [[Regional Info/Pantheon/The Unspoken Gods/Vorshka\|Vorshka]], combining void with destruction or decay.
+#### **Commandments**
+> [!hint] The Lord of Undying Silence
+> Embrace emptiness as a tool to reshape existence.
+>     
+> Claim life, bending it toward the void’s purpose.
+>     
+> Respect the balance between living and unmaking; power has a cost.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

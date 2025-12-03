@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/gadeon/","updated":"2025-12-03T16:09:17.540+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/gadeon/","updated":"2025-12-03T23:20:03.231+01:00"}
 ---
 
 ### **God of Storms and War**
@@ -23,15 +23,13 @@ Gadeon’s influence is credited with shaping storms, conflict, adrenaline, and 
 Stories of miracles attributed to him usually describe disruptions in weather or emotion. One tale recounts a skirmish where a deafening crack split the sky, though no lightning followed; the opposing force hesitated long enough for negotiations to resume. Another describes a warrior whose fear vanished in an instant, replaced by a sharp, cold focus that persisted until the danger passed. Such accounts typically involve abrupt changes in tension, treated less as blessings and more as brief realignments of circumstance.
 
 ---
-#### **Relationships**
-- Contrasts with [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]]; storms and upheaval both disrupt and prepare the way for life.
-- Allied with [[Regional Info/Pantheon/The Prime Deities/Ashaadi\|Ashaadi]], as arcane forces often magnify storms or conflict.
-- Interaction with [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]] varies; knowledge may constrain his spontaneity.
-- Complicated ties with [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]]; shadow can obscure or aid chaos.
-- Opposes [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], as motion and battle resist void and stagnation.
-- Neutral toward [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]]; they intersect when natural cycles affect battle or tides.
-
-Views mortals as actors in moments of trial and choice. Courage, decisiveness, and resilience attract his attention. He does not protect the weak or punish the unprepared, instead amplifying the stakes of conflict and challenging mortals to rise, or fall, under pressure.
+#### **Commandments**
+> [!hint] _Stormlord of Valor_
+> Face danger with courage, and defend those who cannot defend themselves.
+>     
+> Channel your strength to protect and to challenge, not to oppress.
+>     
+> Let conflict refine skill, resolve, and honor, never descend into chaos without cause.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ashaadi/","updated":"2025-12-03T18:40:15.515+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ashaadi/","updated":"2025-12-03T23:24:47.806+01:00"}
 ---
 
 ### **God of Magic and Mysteries**
@@ -23,14 +23,13 @@ Ashaadi’s influence encompasses magic, hidden knowledge, the shaping of myster
 Miraculous events attributed to him often involve subtle shifts rather than overt displays. One tale recounts a chamber of locked tomes that suddenly aligns so the reader can decipher a hidden script. Another tells of a storm of chaotic arcane energy that disperses harmlessly when one meditates at the right angle, leaving the observer enlightened as to a natural law previously obscure. These incidents rarely repeat in consistent fashion, reinforcing their domain over unpredictable revelation.
 
 ---
-#### **Relationships**
-- Collaborates with [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]] and [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], enhancing their respective life and natural cycles.
-- Supports [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]] through arcane amplification.
-- Shares respect with [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]]; magic and knowledge intertwine.
-- Ambiguous toward [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], occasionally opposing dark forces.
-- Loosely connected to [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], especially when crafting magical instruments or enchanted art.
-
-Sees mortals as vessels of potential and curiosity. Those who explore the unknown, experiment, or seek to understand the world may receive guidance, though lessons are often cryptic. Disrespect for arcane knowledge or recklessness draws subtle reprimand rather than open wrath.
+#### **Commandments**
+> [!hint] The Enigmatic Hand
+> Seek knowledge and understanding without hubris or harm.
+>     
+> Respect the mysteries of the world; reveal truth only when ready.
+>     
+> Use power thoughtfully, guiding creation rather than imposing it.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sefra/","updated":"2025-12-03T16:09:32.223+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sefra/","updated":"2025-12-03T23:25:33.860+01:00"}
 ---
 
 ### **Goddess of Fate and Death**
@@ -23,14 +23,13 @@ Sefra’s influence governs fate, endings, and the passage between life and deat
 Miracles attributed to Sefra tend to be quiet and fleeting. One account describes a dying villager whose final moments were marked by a calm warmth, as if unseen hands smoothed fear and pain. Another tells of a traveler who, lost at a crossroads, was guided safely by fleeting glimpses of silvered moonlight, later interpreted as Sefra’s attention to the uncertain path. These events emphasize acceptance and balance, showing her influence as a subtle shaping of the world rather than direct interference.
 
 ---
-#### **Relationships**
-- Naturally linked to [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]], as life feeds into death.
-- Balances [[Regional Info/Pantheon/The Prime Deities/Suvanna\|Suvanna]], whose cycles reflect change.
-- Interacts with [[Regional Info/Pantheon/The Prime Deities/Sirta\|Sirta]], ensuring knowledge aligns with fate.
-- Tends to oppose [[Regional Info/Pantheon/The Unspoken Gods/Vaqua\|Vaqua]] and [[Regional Info/Pantheon/The Unspoken Gods/Nipheth\|Nipheth]], who disrupt natural transitions.
-- Maintains neutral or distant relations with [[Regional Info/Pantheon/The Prime Deities/Gadeon\|Gadeon]] and [[Regional Info/Pantheon/The Prime Deities/Lo\|Lo]], though outcomes of their domains can intersect with fate.
-
-Sees mortals as threads in a vast tapestry. She neither interferes with life unnecessarily nor allows death to be cruelly delayed. Mortals are guided toward acceptance, understanding, and preparation for transition, with her influence subtle and often unnoticed until the moment arrives.
+#### **Commandments**
+> [!hint] The Silent Arbiter
+> Accept the cycles of life and death with grace and understanding.
+>     
+> Guide others toward balance, but do not overreach their path.
+>     
+> Honor endings as necessary and transformative, not to be feared.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**
