@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vaqua/","updated":"2025-12-03T23:22:05.616+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vaqua/","updated":"2025-12-04T13:30:58.359+01:00"}
 ---
 
 ### **God of Shadows and Trickery 
@@ -25,11 +25,14 @@ Miracles attributed to Vaqua rarely present themselves directly. One tale speaks
 ---
 #### **Commandments**
 > [!hint] The Whisper in Shadow
-> Conceal your plans and observe carefully before acting.
->     
-> Exploit opportunity, misdirection, and cunning to achieve your aims.
->     
-> Never trust appearances; all is subject to deception.
+**1. Let truth bend when advantage demands.**  
+Use misdirection to navigate danger or opportunity, never binding yourself to a single narrative.
+>
+**2. Move unseen where obstacles gather.**  
+Slip between intentions, remaining unnoticed when exposure brings risk.
+>
+**3. Thrive in the spaces others overlook.**  
+Claim the forgotten, the hidden, and the unguarded as your domain.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

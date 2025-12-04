@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/suvanna/","updated":"2025-12-03T23:18:41.189+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/suvanna/","updated":"2025-12-04T13:25:56.427+01:00"}
 ---
 
 ### **Goddess of Moon and Tides**
@@ -25,11 +25,14 @@ Tales of miracles attributed to her describe fleeting distortions in light and m
 ---
 #### **Commandments**
 > [!hint] _The Moon Shepard's Grace_
-> Respect the cycles of nature, allowing growth and decay in balance.
-> 
-> Honor the night as you do the day; seek harmony in all rhythms.
-> 
-> Tend the earth and its creatures, leaving no place to waste.
+**1. Seek the return to balance.**  
+Let extremes settle, whether in emotion, conflict, or transition, guiding situations toward their natural center.
+>
+**2. Move with the changing tide.**  
+Do not hold rigidly to a path that shifts beneath you; adjust when the current turns.
+>
+**3. Honor endings as part of continuance.**  
+Accept shifts and closures as necessary passages, neither resisting nor hastening them without cause.
 
 
 ---

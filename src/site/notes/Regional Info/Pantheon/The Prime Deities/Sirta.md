@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sirta/","updated":"2025-12-03T23:21:21.589+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sirta/","updated":"2025-12-04T13:29:55.025+01:00"}
 ---
 
 ### **Goddess of Knowledge and Secrets**
@@ -25,11 +25,14 @@ Miraculous accounts often describe subtle, temporary phenomena. One story tells 
 ---
 #### **Commandments**
 > [!hint] The Silent Scribe
-> Preserve truth and hidden wisdom, sharing only with those prepared.
+ > **1. Preserve what is worth remembering.**  
+Guard truth and hidden wisdom, record what must endure, and do not let vital knowledge fade through indifference.
 >     
-> Question carefully, listen intently, and record diligently.
->     
-> Honor the weight of secrets; misuse brings ruin.
+**2. Approach secrets with deliberation and respect.**  
+Uncover nothing recklessly; wisdom lies in knowing when revelation serves and when it harms.
+>
+**3. Seek clarity through inquiry.**  
+Question assumptions, challenge the unexamined, and refine understanding through patient thought.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ashaadi/","updated":"2025-12-03T23:24:47.806+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ashaadi/","updated":"2025-12-04T13:28:25.183+01:00"}
 ---
 
 ### **God of Magic and Mysteries**
@@ -25,11 +25,14 @@ Miraculous events attributed to him often involve subtle shifts rather than over
 ---
 #### **Commandments**
 > [!hint] The Enigmatic Hand
-> Seek knowledge and understanding without hubris or harm.
->     
-> Respect the mysteries of the world; reveal truth only when ready.
->     
-> Use power thoughtfully, guiding creation rather than imposing it.
+**1. Pursue understanding beyond the surface.**  
+Engage with mysteries rather than shrink from them, following patterns to their deeper truths.
+>
+**2. Let curiosity guide disciplined practice.**  
+Exploration is hollow without structure; blend inquiry with method so knowledge may take form.
+>
+**3. Protect knowledge from stagnation.**  
+Allow learning to flow, change, and evolve, resisting attempts to freeze the arcane into certainty.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

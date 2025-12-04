@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ramor/","updated":"2025-12-03T23:19:31.139+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ramor/","updated":"2025-12-04T13:25:28.232+01:00"}
 ---
 
 ### God of Life and the Sun
@@ -25,11 +25,14 @@ Miracles attributed to Ramor often appear as subtle shifts in the world rather t
 ---
 #### **Commandments**
 > [!hint] _The Ever-Rising Sun_
-> Protect the living and preserve vitality in all forms.
+ **1. Preserve what grows.**  
+> Act to sustain life where it struggles, and do not allow neglect to undo what effort has begun.
 > 
-> Act with patience and nurture, even when faced with hardship.
-> 
-> Confront corruption and darkness where it threatens life.
+ **2. Guard against the creeping ruin.**  
+Intercede when corruption gathers strength, preventing what festers from overtaking what endures.
+>
+**3. Let renewal follow hardship.**  
+Where endings arrive, make space for beginnings, ensuring cycles continue unbroken.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

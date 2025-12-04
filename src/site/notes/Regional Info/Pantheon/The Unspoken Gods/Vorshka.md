@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vorshka/","updated":"2025-12-03T23:23:23.919+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vorshka/","updated":"2025-12-04T13:31:44.413+01:00"}
 ---
 
 ### **Goddess of Disease and Rot 
@@ -25,11 +25,14 @@ Miracles attributed to Vorshka tend to unfold slowly. One tale describes a tyran
 ---
 #### **Commandments**
 > [!hint] Mistress of Decay
-> Spread decay and weakness where it may teach or punish.
->     
-> Corrupt what is rigid, revealing the hidden fragility of life.
->     
-> Use knowledge of the living to manipulate, weaken, or consume.
+**1. Allow decay its rightful place.**  
+Do not interfere where rot claims dominion; let decline run its course without remedy.
+>
+**2. Weaken what grows unchecked.**  
+Apply pressure where abundance turns to arrogance, reminding strength of its impermanence.
+>
+**3. Observe the world through its fractures.**  
+Study suffering and deterioration to understand the truths ignored by the healthy and the whole.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

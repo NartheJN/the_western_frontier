@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-lord-of-madness/","updated":"2025-12-03T23:24:13.506+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-lord-of-madness/","updated":"2025-12-04T13:37:02.448+01:00"}
 ---
 
 ---
@@ -23,11 +23,14 @@ Miracles aligned with him seldom appear consistent. One story tells of a scribe 
 ---
 #### **Commandments**
 > [!hint] The Herald of the Unseen
-> Break the boundaries of thought; let certainty dissolve.
->     
-> Expose hidden fears and impulses, revealing the mind’s fragility.
->     
-> Accept unpredictability as the only constant; question all reality.
+**1. Reject the comfort of coherence.**  
+Let go of structures that claim to explain meaning; break the boundaries of thought; let certainty dissolve.
+>
+**2. Delve into others and reveal their truth**  
+Expose hidden fears and impulses, revealing the mind’s fragility.
+>
+**3. Follow impulses that defy intention.**  
+Let choices rise from spontaneity unconnected to logic, opening paths the sane cannot see. Accept Unpredictability.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","pinned":true,"updated":"2025-12-03T17:06:36.799+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/summaries/","pinned":true,"updated":"2025-12-04T12:43:19.603+01:00"}
 ---
 
 # The Prime Deities
@@ -26,12 +26,3 @@
 2. [[Regional Info/Pantheon/The Dragonlords/Nebnemenes\|Nebnemenes]], Lord of Balance and Order: [[Regional Info/Pantheon/The Dragonlords/Nebnemenes\|Nebnemenes]] is a dragon god of equilibrium and order. He seeks to maintain balance in the world and among dragonkind, ensuring that neither good nor evil becomes dominant. His followers strive for neutrality and harmony.
 3. [[Regional Info/Pantheon/The Dragonlords/Tiamat\|Tiamat]], Lord of Greed and Vengeance: [[Regional Info/Pantheon/The Dragonlords/Tiamat\|Tiamat]] is a fearsome and power-hungry dragon god, representing the darker aspects of draconic nature. She embodies greed, envy, and a thirst for vengeance. [[Regional Info/Pantheon/The Dragonlords/Tiamat\|Tiamat]]'s multiple heads symbolize her multifaceted desires and ambitions.
 
-# Racial Patrons
-
-1. [[Regional Info/Pantheon/Racial Patrons/Moradin\|Moradin]], The Forge Master: [[Regional Info/Pantheon/Racial Patrons/Moradin\|Moradin]] is the revered god of the dwarves, known as the master craftsman who forged the dwarven race from stone and iron. He is the patron of craftsmanship, smithing, and family, and his followers are known for their resilience and craftsmanship.
-2. [[Regional Info/Pantheon/Racial Patrons/Kordon\|Kordon]], The Siege Lord: [[Regional Info/Pantheon/Racial Patrons/Kordon\|Kordon]] is the god of the resilient and formidable Humans, known for their ingenuity and fortifications. He is a guardian deity of strongholds and a symbol of mortal tenacity in the face of adversity.
-3. [[Regional Info/Pantheon/Racial Patrons/Corellon\|Corellon]], The Lord Protector: [[Regional Info/Pantheon/Racial Patrons/Corellon\|Corellon]] is the divine protector of the elves, embodying grace, beauty, and artistry. He watches over elven kind and their natural habitats, inspiring them to preserve the beauty and magic of their forests.
-4. [[Regional Info/Pantheon/Racial Patrons/Lolth\|Lolth]], The Spider Queen: [[Regional Info/Pantheon/Racial Patrons/Lolth\|Lolth]] is the complex and enigmatic goddess of the drow, a subterranean race of dark elves. She weaves a web of power and deceit, and her followers often engage in political intrigue and dark rituals to gain her favour.
-
-[[Regional Info/Pantheon/God Rumors\|God Rumors]]
-yay

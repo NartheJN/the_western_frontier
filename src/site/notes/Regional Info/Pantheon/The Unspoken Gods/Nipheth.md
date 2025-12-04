@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/nipheth/","updated":"2025-12-03T23:23:49.943+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/nipheth/","updated":"2025-12-04T13:33:10.237+01:00"}
 ---
 
 ### **God of Undead and Void 
@@ -25,11 +25,14 @@ Miracles attributed to Nipheth emerge without spectacle. One account tells of a 
 ---
 #### **Commandments**
 > [!hint] The Lord of Undying Silence
-> Embrace emptiness as a tool to reshape existence.
->     
-> Claim life, bending it toward the void’s purpose.
->     
-> Respect the balance between living and unmaking; power has a cost.
+**1. Sever the ties that bind life to certainty.**  
+Question the permanence of vitality and embrace the stillness beyond breath.
+>
+**2. Expand the reach of the void.**  
+Claim life and bend it toward the void’s purpose so that emptiness can swallow what persists.
+>
+**3. Let boundaries between states erode.**  
+Dissolve the line between living and un-living, between presence and absence.
 
 ---
 #### **Appendix: Prayers, Psalms, Rites, Traditions**
