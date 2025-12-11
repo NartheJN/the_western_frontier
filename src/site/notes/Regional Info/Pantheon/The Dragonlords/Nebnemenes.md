@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/nebnemenes/","updated":"2025-12-04T13:53:28.241+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/nebnemenes/","updated":"2025-12-11T16:05:44.457+01:00"}
 ---
 
 ### Lord of Balance and Order
@@ -29,10 +29,8 @@ Manifestations attributed to Nebnemenes take the form of adjustments rather than
 > [!hint] The Scales of Equilibrium
 > **1. Maintain equilibrium in all dealings.**  
 > Where extremes rise, act to soften them; where absence reigns, supply presence. Let neither excess nor void claim full dominion.
-> 
 > **2. Accept no action that fractures necessary balance.**  
 > Reject choices that elevate one force far above its counterpart, whether in emotion, influence, or consequence.
-> 
 > **3. Stand apart from the pull of alignment.**  
 > Do not bind yourself wholly to light or shadow; walk the center with clarity, preserving neutrality even when others demand allegiance.
 

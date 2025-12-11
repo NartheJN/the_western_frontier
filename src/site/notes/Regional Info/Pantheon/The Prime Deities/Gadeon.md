@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/gadeon/","updated":"2025-12-04T13:27:07.218+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/gadeon/","updated":"2025-12-11T16:04:43.305+01:00"}
 ---
 
 ### **God of Storms and War**
@@ -27,10 +27,8 @@ Stories of miracles attributed to him usually describe disruptions in weather or
 > [!hint] _Stormlord of Valor_
 **1. Stand firm against overwhelming force.**  
 Meet conflict with resolve, allowing pressure to reveal strength rather than fracture it.
->
 **2. Accept the storm as catalyst.**  
 Do not fear upheaval that forces growth; let conflict refine skill, resolve, and honor
->
 **3. Strike only when purpose demands.**  
 Let action be swift and decisive, but never without a cause anchored in necessity.
 

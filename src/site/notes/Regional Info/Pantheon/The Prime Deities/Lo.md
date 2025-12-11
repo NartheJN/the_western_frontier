@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/lo/","updated":"2025-12-04T13:30:11.231+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/lo/","updated":"2025-12-11T16:05:01.872+01:00"}
 ---
 
 ### **God of Music and Artisanry**
@@ -27,10 +27,8 @@ Miracles attributed to Lo tend to be small but profound. One account describes a
 > [!hint] The Eternal Muse
 **1. Shape creation with intention.**  
 Let every crafted thing—whether sound, design, or invention—serve a purpose chosen, not accidental.
->
 **2. Embrace the moment of insight.**  
 When inspiration arrives unbidden, act upon it, allowing creativity to guide the hand.
->
 **3. Let harmony arise from discipline.**  
 Skill is strengthened through practice; refinement deepens artistry until form and function align.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/haz-ka/","updated":"2025-12-04T13:31:16.878+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/haz-ka/","updated":"2025-12-11T16:05:18.486+01:00"}
 ---
 
 ### **Goddess of Chaos and Destruction 
@@ -27,10 +27,8 @@ Miracles aligned with Haz’ka appear less as direct assaults and more as unavoi
 > [!hint] The Shattering Flame
 **1. Unmake what stands stagnant.**  
 Strike at structures that choke change, allowing nothing calcified to endure unchallenged.
->
 **2. Embrace the breaking point.**  
 See collapse not as failure, but as the precursor to transformation.
->
 **3. Let chaos choose its direction.**  
 Do not restrain upheaval with order; allow destruction to reveal what survives it.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/bahamut/","updated":"2025-12-04T13:53:12.940+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/bahamut/","updated":"2025-12-11T16:05:39.675+01:00"}
 ---
 
 ### Lord of Justice and Nobility
@@ -29,10 +29,8 @@ Events attributed to Bahamut often surface as subtle corrections rather than dra
 > [!hint] The Platinum Judge
 > **1. Uphold structure where it falters.**  
 > Seek the path that restores coherence, whether in thought, action, or community, and resist choices that unravel what holds the world in order.
-> 
 > **2. Temper strength with restraint.**  
 > Power is to be applied with deliberation; let force serve purpose, not impulse, and let judgment rise only after understanding.
-> 
 > **3. Protect justice from distortion.**  
 > Act against deception or imbalance that bends truth toward personal gain, ensuring that fairness remains anchored and unmanipulated.
 

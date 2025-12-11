@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/tiamat/","updated":"2025-12-04T13:53:44.004+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/tiamat/","updated":"2025-12-11T16:05:49.509+01:00"}
 ---
 
 ### Lord of Greed and Vengeance
@@ -29,10 +29,8 @@ Signs of her influence tend to manifest through coinciding turns of circumstance
 > [!hint] The Many-Headed Wrath
 > **1. Seize advantage when opportunity reveals itself.**  
 > Do not ignore shifts in circumstance; advance when the path opens, for hesitation squanders potential.
-> 
 > **2. Let cunning guide ambition.**  
 > Strength without strategy fractures; shape plans through layered thinking, and allow no rival to outmaneuver your intent.
-> 
 > **3. Claim what you can hold.**  
 > Authority belongs to those capable of maintaining it; let your position be secured by wit, vigilance, and the will to preserve it.
 
