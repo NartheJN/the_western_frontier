@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sefra/","updated":"2025-12-04T13:30:28.331+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sefra/","updated":"2025-12-11T14:21:14.944+01:00"}
 ---
 
 ### **Goddess of Fate and Death**
@@ -27,10 +27,8 @@ Miracles attributed to Sefra tend to be quiet and fleeting. One account describe
 > [!hint] The Silent Arbiter
 **1. Walk the path set before you.**  
 Accept the weave of fate without attempting to seize threads not yours to carry.
->
 **2. Witness endings without fear.**  
 Do not avert your gaze from what concludes; closure carries its own truth.
->
 **3. Honor the passing of moments.**  
 Treat each decision as a turning in the tapestry, neither trivial nor immutable.
 
