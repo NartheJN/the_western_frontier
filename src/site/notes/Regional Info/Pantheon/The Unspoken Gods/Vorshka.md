@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vorshka/","updated":"2025-12-11T16:05:23.319+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/vorshka/","updated":"2026-09-01T09:27:30.404+02:00","dg-note-properties":{}}
 ---
 
 ### **Goddess of Disease and Rot 
 
 ---
 #### **Description**
-Vorshka appears in forbidden artwork as a withered, thin figure draped in layered fabrics that cling unevenly to the body, revealing warped proportions beneath. Artists often sketch the form with elongated fingers, joints slightly swollen, and skin shaded in mottled patches that blend into the surrounding environment. Her face is narrow, with hollowed contours and eyes depicted as dull, sunken orbs, often framed by fragile strands of hair that hang in clumped, uneven locks. Garments bear embroidered patterns reminiscent of spreading veins or fungal blooms, their shapes branching outward across the cloth. Her posture is bent or hunched, though always in a way that suggests patient observation rather than weakness.
+Vorshka appears in forbidden artwork as a withered, thin figure draped in layered fabrics that cling unevenly to the body, revealing warped proportions beneath. Artists often sketch the form with elongated fingers, joints slightly swollen, and skin shaded in mottled patches that blend into the surrounding environment. Her face is narrow, with hollowed contours and eyes depicted as dull, sunken orbs, often framed by fragile strands of hair that hang in clumped, uneven locks. Garments bear embroidered patterns reminiscent of spreading veins or fungal blooms, their shapes branching outward across the cloth. Her posture is bent or hunched, not from weakness, but almost like patient observation.
 
 Accounts mention a small, many-eyed carrion creature that follows her—a lopsided thing that scurries into dark places and leaves behind faint trails of dried residue shaped like branching sigils.
 

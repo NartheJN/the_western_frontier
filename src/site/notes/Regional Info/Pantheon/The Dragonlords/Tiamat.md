@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/tiamat/","updated":"2025-12-11T16:05:49.509+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/tiamat/","updated":"2025-12-11T16:05:49.509+01:00","dg-note-properties":{}}
 ---
 
 ### Lord of Greed and Vengeance

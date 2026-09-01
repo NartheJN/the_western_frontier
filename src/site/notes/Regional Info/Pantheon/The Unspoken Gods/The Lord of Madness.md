@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-lord-of-madness/","updated":"2025-12-11T16:05:33.463+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-lord-of-madness/","updated":"2025-12-11T16:05:33.463+01:00","dg-note-properties":{}}
 ---
 
 ---

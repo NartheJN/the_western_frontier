@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-unspoken-gods/","pinned":true,"updated":"2025-12-03T23:34:06.849+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-unspoken-gods/the-unspoken-gods/","pinned":true,"updated":"2025-12-03T23:34:06.849+01:00","dg-note-properties":{}}
 ---
 
 ### The Unspoken Gods

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/lo/","updated":"2025-12-11T16:05:01.872+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/lo/","updated":"2025-12-11T16:05:01.872+01:00","dg-note-properties":{}}
 ---
 
 ### **God of Music and Artisanry**

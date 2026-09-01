@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sirta/","updated":"2025-12-11T16:04:55.443+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sirta/","updated":"2025-12-11T16:04:55.443+01:00","dg-note-properties":{}}
 ---
 
 ### **Goddess of Knowledge and Secrets**

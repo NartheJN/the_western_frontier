@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/bahamut/","updated":"2025-12-11T16:05:39.675+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-dragonlords/bahamut/","updated":"2025-12-11T16:05:39.675+01:00","dg-note-properties":{}}
 ---
 
 ### Lord of Justice and Nobility

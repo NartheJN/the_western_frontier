@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ashaadi/","updated":"2025-12-11T16:04:48.507+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/ashaadi/","updated":"2025-12-11T16:04:48.507+01:00","dg-note-properties":{}}
 ---
 
 ### **God of Magic and Mysteries**

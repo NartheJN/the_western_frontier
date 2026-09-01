@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sefra/","updated":"2025-12-11T14:21:14.944+01:00"}
+{"dg-publish":true,"permalink":"/regional-info/pantheon/the-prime-deities/sefra/","updated":"2025-12-11T14:21:14.944+01:00","dg-note-properties":{}}
 ---
 
 ### **Goddess of Fate and Death**
