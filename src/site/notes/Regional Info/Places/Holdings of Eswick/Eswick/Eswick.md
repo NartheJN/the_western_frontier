@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T11:25:30.687+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T11:52:19.469+02:00","dg-note-properties":{}}
 ---
 
 ## Geography
@@ -9,7 +9,9 @@ The frontier is a northern European-styled region with a wooded and temperate en
 #### Natural Features
 The town is coastal, though it does not sit directly on the coast. A wall surrounds the town, with three gates facing east, west, and north. Two ports lie north of the town within view of the city, with the older port seeing less use than the newer one. A river runs along the western wall, following a slight meander. Beyond the farmland surrounding the town, forests stretch to the east and west.
 
+A tree brought over from the Empire stands at the centre of the town’s park. It was planted as a symbol of Eswick’s connection to the Empire and serves as a reminder of the settlement’s origins. The tree has since become a familiar part of the town, standing at the heart of a space that is open to everyone.
 
+Once every three lunar cycles, though never on a predictable schedule, the moon exerts an unusual influence on the waters around Eswick. The tides shift in strange ways, sometimes exposing parts of the riverbed that are normally submerged before suddenly returning, while the water itself may take on an unusual glow. The changing currents alter where fish gather, making fishing during the event unpredictable and forcing local fishermen to adapt their usual practices. For other residents, the shifting tides can temporarily expose unfamiliar stretches of the riverbed, alter paths along the water, and make familiar areas difficult or dangerous to navigate when the tide suddenly returns.
 
 - A tree brought over from the Empire has been planted as a symbol or similar purpose.
 - Some sort of lunar event affects fishermen and locals.
