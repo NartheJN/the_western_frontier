@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T13:19:53.802+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T14:03:55.775+02:00","dg-note-properties":{}}
 ---
 
 ## Geography
@@ -11,7 +11,7 @@ The town is coastal, though it does not sit directly on the coast. A wall surrou
 
 A tree brought over from the Empire stands at the centre of the town’s park. It was planted as a symbol of Eswick’s connection to the Empire and serves as a reminder of the settlement’s origins. The tree has since become a familiar part of the town, standing at the heart of a space that is open to everyone.
 
-Once every three lunar cycles, though never on a predictable schedule, the moon exerts an unusual influence on the waters around Eswick. The tides shift in strange ways, sometimes exposing parts of the riverbed that are normally submerged before suddenly returning, while the water itself may take on an unusual glow. The changing currents alter where fish gather, making fishing during the event unpredictable and forcing local fishermen to adapt their usual practices. For other residents, the shifting tides can temporarily expose unfamiliar stretches of the riverbed, alter paths along the water, and make familiar areas difficult or dangerous to navigate when the tide suddenly returns.    
+Once every three lunar cycles, though never on a predictable schedule, the moon exerts an unusual influence on the waters around Eswick. The tides shift in strange ways, sometimes exposing parts of the riverbed that are normally submerged before suddenly returning, while the water itself may take on an unusual glow. The changing currents alter where fish gather, making fishing during the event unpredictable and forcing local fishermen to adapt their usual practices. For other [[Regional Info/Places/Holdings of Eswick/Eswick/Residents\|residents]], the shifting tides can temporarily expose unfamiliar stretches of the riverbed, alter paths along the water, and make familiar areas difficult or dangerous to navigate when the tide suddenly returns.    
 
 ### Weather
 The town has warm summers and cold winters. Overcast skies and rainfall are common throughout the year.
@@ -24,7 +24,7 @@ Wind chimes can be found hanging outside every house in town, a common measure u
 The town takes great pride in the quality of its fish, with fishing being an important part of local life. Fishing competitions are held as a way for the townspeople to celebrate this. 
 
 The town observes a number of annual celebrations: 
-- Firbolg Peace Alliance Day 
+- Firbolg Peace Alliance Day (need new name)
 - Landing Day.
     
 #### Religion
@@ -39,7 +39,7 @@ Aldren Vey, the local cleric of [[Regional Info/Pantheon/The Prime Deities/Ramor
 #### City Officers
 The town’s affairs are overseen by a five-member council, whose seats are divided among several of the community’s most influential figures. Edwin Merrin, a halfling who owns and operates the local pawnshop, serves as its leader, chosen by the people of the town after previous upset. Garrick Voss, the wealthy-born Dockmaster whose position gives him a strong interest in the town’s ports and whose habit of keeping track of everyone’s business makes him a well-informed member. Valerian Thorne, one of the three Arcanists who arrived with the original expedition, holds the remaining politically influential seat. Ambitious and backed by a wealthy family and connections within the Empire, Thorne brings a strong connection to the wider Imperial establishment.
 
-The council is rounded out by two representatives with closer ties to the everyday concerns of the town. Marta Venn, a local farmer and landholder, speaks for the farmers and rural residents surrounding the settlement and is chiefly concerned with farmland, food supplies, and the safety of those living beyond the walls; and Oren Calder, an older dwarf and established blacksmith, gives the town’s craftsmen and working population a voice. Gruff and practical, Calder has little patience for political disputes and prefers to focus on immediate, tangible concerns. 
+The council is rounded out by two representatives with closer ties to the everyday concerns of the town. Marta Venn, a local farmer and landholder, speaks for the farmers and rural [[Regional Info/Places/Holdings of Eswick/Eswick/Residents\|residents]] surrounding the settlement and is chiefly concerned with farmland, food supplies, and the safety of those living beyond the walls; and Oren Calder, an older dwarf and established blacksmith, gives the town’s craftsmen and working population a voice. Gruff and practical, Calder has little patience for political disputes and prefers to focus on immediate, tangible concerns. 
 Together, the five members represent a mixture of local, commercial, rural, and Imperial interests within the town’s government. 
 
 #### Crime
@@ -83,94 +83,59 @@ More recently, Eswick was affected by a major outbreak of disease. The town cont
 - The witch is secretly controlling the town.
 - The Forum/Amphitheatre is haunted.
 - A door appears only in moonlight and leads to a secret graveyard.
+- A Beastfighting pit is hidden somewhere in or near town but there is no official proof of it's exitence.
 
 ---
 ## Notable Locations within the city
 
 #### Arcanist Tower
-- The tower is a rebuilt ruin from the Cloud Giants.
-- It is something locals take for granted.
-- The surrounding area appears older than the rest of the town.
-- The tower is associated with the three Arcanists who came with the original expedition and their apprentices.
+The Arcanist Tower stands at the heart of Eswick, though it was not always part of the town. Originally built as a tower among the ruins of an older structure, it stood outside the settlement until the destruction of Scar-Town led the survivors to rebuild around it. The surrounding area still appears older than much of the rest of Eswick, while the tower itself has become such a familiar part of the town that most locals take it for granted. It remains closely associated with the three Arcanists who accompanied the original expedition and their apprentices.
 
 #### Portside Market
-- A market floating on boats.
-- A place where people may frequently cross paths.
+The Portside Market is a floating marketplace made up of boats and barges gathered together along the water. It serves as one of the town’s busiest meeting places, bringing together fishermen, traders, travellers, and locals throughout the day. With people constantly coming and going between the vessels, it is one of the places in Eswick where people are most likely to cross paths.
 
 #### Forum / Amphitheatre
-- Used as a gathering place.
-- Potentially used for announcements.
-- Haunted.
-- Built on magical ground.
-- Strange things occur involving spirits due to a religious mismatch.
-- Friday free nuts.
-- A door appears somewhere in connection with the Amphitheatre only in moonlight.
-- The door leads to a secret graveyard.
+The Forum and Amphitheatre serves as a gathering place within Eswick and is used for announcements and other public occasions. Despite its role as a common meeting place, the site is considered haunted and was built upon magical ground. Strange occurrences involving spirits are known to take place there, which some believe may be connected to differences in religious beliefs or spirituality. The Forum is also the site of a small local tradition, with free nuts given out every Friday. 
+Supposedly hidden within the Amphitheatre is a door that can only be seen in moonlight that leads to a secret graveyard but none have confirmed the story.
 
 #### Park
-- Contains the imported tree as its centerpiece.
-- Open to everyone.
-- Local events are held there.
-- It is decorated for these events.
-- A secret passage leads to a closed-off portion of the garden.
+The town’s park is an open space available to everyone, with the imported tree from the Empire standing at its centre. It serves as a gathering place for local events, and the park is often decorated for these occasions. Hidden within the garden is a secret passage known only to locals that leads to a closed-off section of the grounds.
 
 #### Tinker's Shop
 - A place someone might go to be alone.
     
-#### Tavern / Taphouse
-- The local famous inn or tavern.
-- Mainly has outside seating.
-- Mostly consists of a kitchen and bar.
+#### Tavern / Taphouse - The Wayfarer’s Bench
+The Wayfarer’s Bench is Eswick’s best-known tavern, though it is less a traditional building and more a permanent open-air structure. A broad roof is supported by three walls and a single central column, leaving much of the tavern open to the surrounding air. At its centre sits a large firepit, providing warmth for those gathered beneath the roof and a place where animals can be cooked whole over the flames. The kitchen and bar occupy the enclosed portion, while tables and benches fill the space around the fire, making it a familiar gathering place for both locals and travellers passing through Eswick.
 
-#### Scout and Trader Location
-- A place where people pick up local items that scouts and travelling traders have brought back.
-- A man living above the location collects birds.
+#### The Scout and Trader Post
+The Scout and Trader Post serves as a place where locals can find goods brought back to Eswick by the town’s scouts and travelling traders. Items gathered from beyond the town are brought here and made available to those looking for something less commonly found within Eswick itself. Above the post lives Eamon Reed, a local known for his collection of birds and his habit of trading information.
 
 #### Sickhouse
-- Recently placed in an open space.
+The sickhouse was established in one of the town’s open spaces following the recent outbreak of disease. Its presence serves as a visible reminder of the illness that has affected Eswick and the continued problems the town faces with sickness. Although the building is a relatively recent addition, it has quickly become an important part of the town’s response to disease.
 
-#### Church
-- Has a tower with a large bell.
-- One of the buildings travellers notice when arriving.
+#### Church of Ramor
+The town’s church is one of the most immediately recognisable buildings in Eswick, with its tall bell tower standing clearly above the surrounding town. Set high within the tower is a large stained-glass window, its colours catching the light and making it visible from a distance. The window has become a familiar symbol of Eswick itself, while the large bell housed within the tower can be heard throughout the town. Together, the tower, bell, and stained glass form one of the first and most memorable sights travellers encounter when approaching Eswick.
 
 ---
 ## Notable Locations nearby the city
 #### Outskirts
-- May be avoided because of the sinkhole.
+The outskirts of Eswick gradually give way to farmland before the surrounding forests begin to stretch away to the east and west. The area is less developed than the town itself, with the open land beyond the walls becoming increasingly rural as it moves away from the settlement. The north-western outskirts are largely avoided due to the presence of a large sinkhole, which has become a notable and potentially dangerous feature of the area. Despite this, one resident stubbornly refuses to leave their home near the sinkhole, though the reason for doing so is unclear.
 
 #### Old Docks
-- Associated with illegal activities.
-- Located near ruins left behind after the estuary flooded and wiped out a block of buildings.
-    
+The Old Docks occupy a neglected section of Eswick’s port, where the remains of buildings destroyed by a past flood still surround the waterfront. When the estuary flooded, an entire block of buildings was wiped out, leaving ruins that were never fully reclaimed. The area has since become associated with illegal activity, giving the Old Docks a rougher reputation than the newer parts of the port.
 
 #### Ruined Block
-- The estuary flooded and wiped out a block of buildings.
-- Ruins remain.
-
-#### Secret Cave
-- Accessible only during low tide.
+A block of buildings along the estuary was destroyed when a major flood swept through the area. The buildings were never fully rebuilt, leaving behind a collection of ruins that still remain today.
     
 #### River Tide Pools
-- At low tide, tide pools form somewhere along the river.
-- Only locals may know how to find them.
-
-#### Sinkhole
-- Located around the outskirts of town.
-- Important.
-- Potentially dangerous.
-
-#### Beastfighting Pit
-- May become dangerous someday.
+At low tide, a series of strange tide pools appears along a secluded stretch of the river. Their location is known to only a handful of locals, and those unfamiliar with the area could easily pass them by without ever noticing them. The water in some of the pools is unnaturally still, even as the river continues to move around them. An old local tale claims that the pools are windows into somewhere beneath the river, and that those who stare into their depths for too long may see something staring back. The pools vanish again beneath the returning tide, leaving little indication that they were ever there.
     
 #### Sunken Ship
-- Someone wants to fix it.
-- May become dangerous or important
+A sunken ship lies in the waters near Eswick, its remains partially submerged and left to deteriorate. Despite its condition, someone in town has taken an interest in restoring the vessel and hopes to see it brought back into use. Whether that effort will succeed remains uncertain, though the ship could become an important asset or a source of danger during recovery.
     
 #### Nearby Forest
-- Has magical leaves that change colours.
-- May contain a treant and a cult.
-- May become important later.
-- Expansion plans for the city may affect the area.
+A section of forest lies beyond the outskirts of Eswick, marked by trees whose leaves change colour in unusual ways. The area has drawn interest because of the strange nature of the forest, though there are also rumours that a treant and a cult may be found somewhere within it. Planned expansion of Eswick could eventually bring the town closer to this part of the forest, potentially changing the relationship between the settlement and the surrounding woodland.
+
 
 ---
 
