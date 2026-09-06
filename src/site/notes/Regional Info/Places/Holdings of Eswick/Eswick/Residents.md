@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/residents/","updated":"2026-09-06T14:22:57.402+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/residents/","updated":"2026-09-06T14:33:59.839+02:00","dg-note-properties":{}}
 ---
 
 ### Town Leadership & Politics
@@ -34,6 +34,7 @@
 - **[[Mariel Thorne\|Mariel Thorne]]** — Nosy local and jewellery maker
 - **[[Elspeth Rook\|Elspeth Rook]]** — Gruff but respected
 - **[[Herbalist Witch\|Herbalist Witch]]** — Local eccentric / healer
+- **[[Reynard Flint\|Reynard Flint]]** — grumpy old ranger, widely respected.
 
 ### Firbolg & Community Relations
 - **[[Rhovan\|Rhovan]]** — Firbolg Scout Leader
