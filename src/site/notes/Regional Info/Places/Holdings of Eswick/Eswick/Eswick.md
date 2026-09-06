@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T14:06:31.598+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T14:06:43.102+02:00","dg-note-properties":{}}
 ---
 
 ## Geography
@@ -83,7 +83,7 @@ More recently, Eswick was affected by a major outbreak of disease. The town cont
 - The witch is secretly controlling the town.
 - The Forum/Amphitheatre is haunted.
 - A door appears only in moonlight and leads to a secret graveyard.
-- A Beastfighting pit is hidden somewhere in or near town but there is no official proof of it's exitence.
+- A Beastfighting pit is hidden somewhere in or near town but there is no official proof of it's existence.
 
 ---
 ## Notable Locations within the city
