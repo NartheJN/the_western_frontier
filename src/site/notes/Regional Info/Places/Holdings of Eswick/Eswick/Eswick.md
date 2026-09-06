@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T14:03:55.775+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/places/holdings-of-eswick/eswick/eswick/","updated":"2026-09-06T14:06:31.598+02:00","dg-note-properties":{}}
 ---
 
 ## Geography
@@ -101,8 +101,8 @@ Supposedly hidden within the Amphitheatre is a door that can only be seen in moo
 #### Park
 The town’s park is an open space available to everyone, with the imported tree from the Empire standing at its centre. It serves as a gathering place for local events, and the park is often decorated for these occasions. Hidden within the garden is a secret passage known only to locals that leads to a closed-off section of the grounds.
 
-#### Tinker's Shop
-- A place someone might go to be alone.
+#### Tessa’s Tinkers
+Tessa’s Tinkers is a cramped workshop packed with tools, spare parts, odd little mechanisms, and half-finished projects. Workbenches fill much of the interior, with shelves and piles of materials leaving only narrow paths through the shop. Tessa Brindle, the shop’s owner, has a habit of taking apart broken or discarded objects to see what can be salvaged from them. The result is a cluttered but practical shop where nearly everything has been repaired, modified, or repurposed in some way.
     
 #### Tavern / Taphouse - The Wayfarer’s Bench
 The Wayfarer’s Bench is Eswick’s best-known tavern, though it is less a traditional building and more a permanent open-air structure. A broad roof is supported by three walls and a single central column, leaving much of the tavern open to the surrounding air. At its centre sits a large firepit, providing warmth for those gathered beneath the roof and a place where animals can be cooked whole over the flames. The kitchen and bar occupy the enclosed portion, while tables and benches fill the space around the fire, making it a familiar gathering place for both locals and travellers passing through Eswick.
@@ -113,7 +113,7 @@ The Scout and Trader Post serves as a place where locals can find goods brought 
 #### Sickhouse
 The sickhouse was established in one of the town’s open spaces following the recent outbreak of disease. Its presence serves as a visible reminder of the illness that has affected Eswick and the continued problems the town faces with sickness. Although the building is a relatively recent addition, it has quickly become an important part of the town’s response to disease.
 
-#### Church of Ramor
+#### Church of [[Regional Info/Pantheon/The Prime Deities/Ramor\|Ramor]]
 The town’s church is one of the most immediately recognisable buildings in Eswick, with its tall bell tower standing clearly above the surrounding town. Set high within the tower is a large stained-glass window, its colours catching the light and making it visible from a distance. The window has become a familiar symbol of Eswick itself, while the large bell housed within the tower can be heard throughout the town. Together, the tower, bell, and stained glass form one of the first and most memorable sights travellers encounter when approaching Eswick.
 
 ---
