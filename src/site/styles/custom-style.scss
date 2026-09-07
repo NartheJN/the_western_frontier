@@ -33,13 +33,14 @@ body {
     --dg-toc-font-size: 18px;
     --dg-sidebar-top: 10px;
     --dg-sidebar-container-height: 100%;
+    --dg-toc-max-height: 100vh;
     
     --font-family-editor: "IM Fell DW Pica", serif;
     --font-family-preview: "IM Fell DW Pica", serif;
 }
 //
 * {
-    box-sizing: 0;
+    box-sizing: content-box;
 }
 //
 .toc-active {
