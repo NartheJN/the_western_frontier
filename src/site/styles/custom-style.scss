@@ -15,40 +15,14 @@ body {
 //.filetree-wrapper {background-color: #e8f1f9}
 //.markdown-rendered h1 {color: #0098ff ;}
 
-@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 
 body {
     --dg-content-max-width: 1200px;
     --dg-sidebar-max-width: 400px;
     --dg-filetree-gap: 380px
-    
-  --font-monospace: 'Source Code Pro';
-  --wws-font-modern: 'Modern Antiqua';
-  --wws-font-raleway: 'Raleway';
-  --wws-font-text: 'Modern Antiqua';
-  --wws-font-monospace: 'Source Code Pro', Jetbrains Mono;
-  --wws-header-font: 'Modern Antiqua';
-  --wws-header-font-caps-variant: normal;
-  --wws-font-tags: var(--wws-header-font);
-  --wws-font-callout-title: var(--wws-header-font);
+}
 
-  --h1-font: var(--wws-font-raleway);
-  --h2-font: var(--wws-font-raleway);
-  --h3-font: var(--wws-font-raleway);
-  --h4-font: var(--wws-font-raleway);
-  --h5-font: var(--wws-font-raleway);
-  --h6-font: var(--wws-font-raleway);
-
-  --font-text-theme: var(--wws-font-text);
-  --font-monospace-theme: var(--wws-font-monospace);
-  --font-interface-theme: var(--wws-font-text);
-  --font-mermaid: var(--wws-font-monospace);
-
-  --footer-display: block;
-
-  @media screen and (max-width: 750px) {
-    /* ... rules and variables for mobile devices and smaller */
-    --footer-display: none;
-  }
+body, .content, .workspace, .markdown-preview-view, .markdown-source-view {
+    font-family: 'PT Serif', serif !important;
 }
