@@ -27,7 +27,9 @@ body {
     --font-family-preview: "IM Fell DW Pica", serif;
 }
 
-.toc-active {--text-accent: #0098ff}
+.toc-active {
+    --text-accent: #0098ff !important;
+}
 
 body,
     .content,
