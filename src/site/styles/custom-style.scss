@@ -24,9 +24,16 @@ body {
     --dg-filetree-gap: 380px
 }
 
-body, 
-    .content, 
-    .workspace, 
-    .markdown-preview-view, 
+body,
+    .content,
+    .workspace,
+    .markdown-preview-view,
     .markdown-source-view,
-{font-family: 'IM Fell DW Pica'}
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+    font-family: 'IM Fell DW Pica', serif;
+}
