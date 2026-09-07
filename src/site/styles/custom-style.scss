@@ -17,7 +17,7 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&display=swap');
-
+----
 body {
     --dg-content-max-width: 1200px;
     --dg-sidebar-max-width: 400px;
@@ -38,16 +38,14 @@ body {
     --font-family-editor: "IM Fell DW Pica", serif;
     --font-family-preview: "IM Fell DW Pica", serif;
 }
-
+----
 .toc-active {
-    --text-accent: #0098ff !important;
-
+    --text-accent: #0098ff !important;}
+----
 {
 	box-sizing: 0;
 }
-    
-}
-
+----  
 body,
     .content,
     .workspace,
@@ -61,3 +59,4 @@ body,
     h6 {
     font-family: 'IM Fell DW Pica', serif;
 }
+----
