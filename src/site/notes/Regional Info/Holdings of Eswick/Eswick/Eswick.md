@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/eswick/","updated":"2026-09-07T11:51:38.342+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/eswick/","updated":"2026-09-23T11:12:09.060+02:00","dg-note-properties":{}}
 ---
 
 ## Geography
@@ -9,9 +9,9 @@ The frontier is a northern European-styled region with a wooded and temperate en
 #### Natural Features
 The town is coastal, though it does not sit directly on the coast. A wall surrounds the town, with three gates facing east, west, and north. Two ports lie north of the town within view of the city, with the older port seeing less use than the newer one. A river runs along the western wall, following a slight meander. Beyond the farmland surrounding the town, forests stretch to the east and west.
 
-A tree brought over from the Empire stands at the centre of the town’s park. It was planted as a symbol of Eswick’s connection to the Empire and serves as a reminder of the settlement’s origins. The tree has since become a familiar part of the town, standing at the heart of a space that is open to everyone.
+A Sycamore tree brought over from the Empire stands at the centre of the town’s park. It was planted as a symbol of Eswick’s connection to the Empire and serves as a reminder of the settlement’s origins. The tree has since become a familiar part of the town, standing at the heart of a space that is open to everyone.
 
-Once every three lunar cycles, though never on a predictable schedule, the moon exerts an unusual influence on the waters around Eswick. The tides shift in strange ways, sometimes exposing parts of the riverbed that are normally submerged before suddenly returning, while the water itself may take on an unusual glow. The changing currents alter where fish gather, making fishing during the event unpredictable and forcing local fishermen to adapt their usual practices. For other [[Regional Info/Holdings of Eswick/Eswick/Residents\|Residents]], the shifting tides can temporarily expose unfamiliar stretches of the riverbed, alter paths along the water, and make familiar areas difficult or dangerous to navigate when the tide suddenly returns.    
+Once every three lunar cycles, though never on a predictable schedule, the moon exerts an unusual influence on the waters around Eswick. The tides shift in strange ways, sometimes exposing parts of the riverbed that are normally submerged before suddenly returning, while the water itself may take on an unusual glow. The changing currents alter where fish gather, making fishing during the event unpredictable and forcing local fishermen to adapt their usual practices. For other [[Regional Info/Holdings of Eswick/Eswick/Residents/Residents\|Residents]], the shifting tides can temporarily expose unfamiliar stretches of the riverbed, alter paths along the water, and make familiar areas difficult or dangerous to navigate when the tide suddenly returns.    
 
 ### Weather
 The town has warm summers and cold winters. Overcast skies and rainfall are common throughout the year.
@@ -24,7 +24,7 @@ Wind chimes can be found hanging outside every house in town, a common measure u
 The town takes great pride in the quality of its fish, with fishing being an important part of local life. Fishing competitions are held as a way for the townspeople to celebrate this. 
 
 The town observes a number of annual celebrations: 
-- Firbolg Peace Alliance Day (need new name)
+- The Day of Peace.
 - Landing Day.
     
 #### Religion
@@ -39,7 +39,7 @@ Aldren Vey, the local cleric of [[Pantheon/The Prime Deities/Ramor\|Ramor]], is 
 #### City Officers
 The town’s affairs are overseen by a five-member council, whose seats are divided among several of the community’s most influential figures. Edwin Merrin, a halfling who owns and operates the local pawnshop, serves as its leader, chosen by the people of the town after previous upset. Garrick Voss, the wealthy-born Dockmaster whose position gives him a strong interest in the town’s ports and whose habit of keeping track of everyone’s business makes him a well-informed member. Valerian Thorne, one of the three Arcanists who arrived with the original expedition, holds the remaining politically influential seat. Ambitious and backed by a wealthy family and connections within the Empire, Thorne brings a strong connection to the wider Imperial establishment.
 
-The council is rounded out by two representatives with closer ties to the everyday concerns of the town. Marta Venn, a local farmer and landholder, speaks for the farmers and rural [[Regional Info/Holdings of Eswick/Eswick/Residents\|Residents]] surrounding the settlement and is chiefly concerned with farmland, food supplies, and the safety of those living beyond the walls; and Oren Calder, an older dwarf and established blacksmith, gives the town’s craftsmen and working population a voice. Gruff and practical, Calder has little patience for political disputes and prefers to focus on immediate, tangible concerns. 
+The council is rounded out by two representatives with closer ties to the everyday concerns of the town. Marta Venn, a local farmer and landholder, speaks for the farmers and rural [[Regional Info/Holdings of Eswick/Eswick/Residents/Residents\|Residents]] surrounding the settlement and is chiefly concerned with farmland, food supplies, and the safety of those living beyond the walls; and Oren Calder, an older dwarf and established blacksmith, gives the town’s craftsmen and working population a voice. Gruff and practical, Calder has little patience for political disputes and prefers to focus on immediate, tangible concerns. 
 Together, the five members represent a mixture of local, commercial, rural, and Imperial interests within the town’s government. 
 
 #### Crime
@@ -72,7 +72,7 @@ In more serious situations, Eswick can turn to it's Arcanists, though Garran Vey
 #### Founding
 Eswick was established as a frontier settlement of the Empire, founded to explore, colonise, and extend the Empire’s reach into the surrounding region. The original expedition included three Arcanists, whose tower was constructed upon the ruins of an older structure a short distance from the fledgling settlement.
 
-The first settlement, now known as Scar-Town, was destroyed after tensions between the expedition and the local Firbolgs erupted into open conflict. The final act of aggression was the torching of the town, leaving much of the expedition displaced. The Arcanists provided shelter around their tower and over time the new settlement grew up around it. The Arcanist Tower remains one of Eswick’s oldest landmarks and to some the most important.
+The first settlement, now known as Scar-Town, was destroyed after tensions between the expedition and the local Firbolgs erupted into [[Regional Info/Holdings of Eswick/Eswick/History/The First Contact Conflict\|open conflict]]. The final act of aggression was the torching of the town, leaving much of the expedition displaced. The Arcanists provided shelter around their tower and over time the new settlement grew up around it. The Arcanist Tower remains one of Eswick’s oldest landmarks and to some the most important.
 
 As the new settlement took root, Eswick reached several important milestones. Peace between the Expedition and the Firbolg Tribes was accepted, The first Imperial ship successfully made the journey to the town, establishing a connection with the Empire; the surrounding farmland produced its first successful harvest, marking an important step in Eswick becoming a stable and established community rather than a fledgling outpost and the Ranger Division was established.
 

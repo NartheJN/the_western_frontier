@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/history/the-first-contact-conflict/","updated":"2026-09-23T12:10:41.415+02:00","dg-note-properties":{}}
+---
+
+The first contact between the Imperial expedition and the local Firbolgs was cautious but peaceful. Neither side fully understood the other, and communication was difficult, but there was no immediate hostility. The expedition viewed the surrounding region as unexplored frontier and began establishing farms, roads, and buildings, while the Firbolgs regarded much of the same land as part of their homeland.
+
+As the settlement grew, the two groups began crossing paths more often. The first disagreements were minor. The expedition cleared land for crops and buildings, only to discover that some of these areas were used by the Firbolgs as seasonal camps and hunting grounds. Though the settlers agreed to avoid some of these places, no clear agreement was made about who had the right to decide how the land was used.
+
+---
+As [[Regional Info/Holdings of Eswick/Eswick/Eswick\|Eswick]] expanded, the expedition began sending surveyors farther into the wilderness. Routes were mapped, farmland identified, and markers placed to show where the settlement might eventually grow. The Firbolgs began removing these markers, while the settlers repeatedly replaced them. Each side saw the other's actions as a deliberate challenge.
+
+Hunting caused further resentment. As more settlers arrived, they took game from areas the Firbolgs relied upon. When Firbolgs warned hunters away, the settlers argued that the land was open frontier and that no one had the authority to tell them where they could hunt. In response, Firbolgs drove hunters from certain areas and interfered with traps and equipment left behind.
+
+The expedition had several opportunities to prevent the situation from worsening but failed to do so. Firbolg warnings were often treated as intimidation rather than claims to the land, and no lasting agreement was made over where either side could travel, hunt, or build. When settlers began finding their tools and supplies disturbed, the expedition responded by sending armed men to confront those they believed responsible.
+
+The confrontation marked a change in the relationship. The settlers believed they were protecting their property and maintaining order, while the Firbolgs saw armed outsiders entering their lands as a direct threat. Violence followed, and each incident was answered by another. Neither side was willing to accept responsibility for the escalation, and what had begun with cleared ground, hunting disputes, and broken markers became a cycle of retaliation.
+
+---
+The conflict eventually reached its breaking point in Scar-Town, the expedition's original settlement. After another confrontation between the Firbolgs and the settlers, the town was attacked and set ablaze. The destruction of Scar-Town forced the surviving members of the expedition to abandon the settlement and seek shelter elsewhere.
+
+The Arcanists' tower, which had originally stood outside the town, became a refuge for the displaced settlers. The Firbolgs had intended the destruction of Scar-Town to drive the expedition from their lands, but the survivors did not leave. Instead, they gathered at the tower with their families and began preparing to rebuild.
+
+The attack also changed the position of several Firbolg leaders. [[Regional Info/Holdings of Eswick/Eswick/History/Eira Willowmere\|Eira Willowmere]], a war leader who had supported driving the settlers from the region, began to question whether further attacks would achieve anything beyond more bloodshed. [[Regional Info/Holdings of Eswick/Eswick/History/Tharok Greybranch\|Tharok Greybranch]], an elder who had opposed the escalation of the conflict, argued that the survivors could no longer simply be driven away. He also feared that continued violence could provoke a much larger response from the Empire across the Stormstrike Sea.
+
+Together, [[Regional Info/Holdings of Eswick/Eswick/History/Eira Willowmere\|Eira]] and [[Regional Info/Holdings of Eswick/Eswick/History/Tharok Greybranch\|Tharok]] became leading voices for ending the fighting. They argued that the destruction of Scar-Town had shown that the settlers could be driven from their homes, but not simply made to disappear. Further attacks would only deepen the conflict and increase the risk of a larger war.
+
+---
+With the conflict no longer seen as something that could be settled through violence, representatives of the expedition and the local Firbolgs began negotiations. The resulting **Greywater Accords** established the first formal agreement between the two groups and brought the fighting to an end.
+
+The Accords recognised the new settlement as a permanent community while placing limits on its expansion into Firbolg lands. Areas beyond the settlement were to remain under Firbolg control, with hunting grounds, travel routes, and places of importance to the Firbolgs respected by the settlers. The expedition agreed not to establish new settlements or claim additional territory without first reaching an agreement with the Firbolgs.
+
+In return, the Firbolgs agreed to recognise the settlers' right to remain and to cease attacks against the settlement. Both sides also agreed to settle future disputes through negotiation rather than retaliation. Trade and peaceful travel between the two communities were permitted, giving the groups a way to interact without relying on violence.
+
+The agreement did not erase the distrust created by the conflict. Some Firbolgs remained opposed to the settlers' presence, while some settlers continued to fear the Firbolgs. The Greywater Accords instead provided a framework for managing those tensions and preventing them from returning to open war.
+
+The rebuilding of [[Regional Info/Holdings of Eswick/Eswick/Eswick\|Eswick]] around the Arcanists' tower followed soon after. The Accords became the foundation of the uneasy peace between [[Regional Info/Holdings of Eswick/Eswick/Eswick\|Eswick]] and the local Firbolgs, and their signing is still remembered as one of the defining events of the town's early history.

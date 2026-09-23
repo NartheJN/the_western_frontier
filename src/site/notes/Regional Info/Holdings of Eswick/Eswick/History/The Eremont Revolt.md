@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/history/the-eremont-revolt/","updated":"2026-09-23T11:52:01.399+02:00","dg-note-properties":{}}
+---
+
+The Eswick Secession Insurrection was a violent attempt to sever the town’s ties with the Empire. Growing resentment toward Imperial rule had existed in Eswick for some time, but the movement gained momentum as calls for complete independence began to spread. Supporters argued that Eswick should govern itself rather than remain dependent upon a distant power across the Stormstrike Sea.
+
+The insurrection developed through a series of increasingly confrontational events. Public meetings and demonstrations in favour of secession were followed by attempts to pressure town officials into declaring independence. When these efforts failed, the secessionists began interfering with the town’s dealings with Imperial representatives and sought to prevent the distribution of Imperial supplies. The militia was eventually called upon to maintain order, bringing armed men from opposing sides into direct confrontation.
+
+Violence first broke out during one such confrontation, after which clashes between secessionists, militia members, and townspeople became increasingly difficult to contain. Barricades were raised in parts of the town, buildings and businesses associated with the Empire were targeted, and several attempts were made to seize or disrupt important supplies. Although the secessionists attracted a substantial following, they never represented a majority of Eswick’s population, and support began to collapse as the possibility of the town losing its access to Imperial provisions became clear.
+
+The conflict was ultimately brought to an end when the militia and those townspeople opposed to the insurrection regained control of the town. The movement’s principal organisers, including Dack Eremont, were arrested and incarcerated. The insurrection left lasting divisions within the community and is generally regarded as one of the darker periods in Eswick’s history. Although resentment toward the Empire has never entirely disappeared, the events of the insurrection remain an uncomfortable subject, and the town has largely chosen not to dwell upon them.
