@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/realm-overviews/aelvyr/aelvyr/","hideInFiletree":true,"updated":"2026-11-21T16:54:57.280+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/realm-overviews/aelvyr/aelvyr/","updated":"2026-11-21T16:57:26.951+01:00","dg-note-properties":{}}
 ---
 
 
