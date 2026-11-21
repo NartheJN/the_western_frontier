@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/eswick/","pinned":true,"updated":"2026-09-23T12:34:21.348+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/eswick/","pinned":true,"updated":"2026-11-21T16:53:22.766+01:00","dg-note-properties":{}}
 ---
 
 ## Geography

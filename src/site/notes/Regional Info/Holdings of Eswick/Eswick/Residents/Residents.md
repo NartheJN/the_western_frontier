@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/residents/residents/","updated":"2026-09-14T13:25:12.768+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/regional-info/holdings-of-eswick/eswick/residents/residents/","updated":"2026-10-12T22:10:45.960+02:00","dg-note-properties":{}}
 ---
 
 ### Town Leadership & Politics
@@ -15,6 +15,7 @@
 - **[[Regional Info/Holdings of Eswick/Eswick/Residents/Valerian Thorne\|Valerian Thorne]]** — Council Member, Arcanist, Imperial Connections
 - **[[Regional Info/Holdings of Eswick/Eswick/Residents/Garran Veyr\|Garran Veyr]]** — Grumpy, Cannot de-escalate situations, Obsessive and weird / Combat Magic / Last Resort
 - **[[The Arcanist Apprentices\|The Arcanist Apprentices]]** — Two apprentices connected to the original Arcanists
+	- Rivaan & Hannah Reyne
 
 ### Defence & Exploration
 - **[[Regional Info/Holdings of Eswick/Eswick/Residents/Captain Dorian Hale\|Captain Dorian Hale]]** — Militia Commander
